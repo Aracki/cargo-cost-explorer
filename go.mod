@@ -3,7 +3,7 @@ module cargo-cost
 go 1.13
 
 require (
-	github.com/DusanKasan/parsemail v0.0.0-20190115161936-abc648830b9a // indirect
+	github.com/DusanKasan/parsemail v0.0.0-20190115161936-abc648830b9a
 	github.com/PuerkitoBio/goquery v1.5.1 // indirect
 	github.com/antchfx/htmlquery v1.2.2 // indirect
 	github.com/antchfx/xmlquery v1.2.3 // indirect
